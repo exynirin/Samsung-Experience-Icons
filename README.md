@@ -2,4 +2,4 @@
 * Available on:
   - MIUI
   - HyperOS
-# Download in Releases
+# Download in [Releases](https://github.com/exynirin/Samsung-Experience-Icons/releases/tag/mhos_1)
